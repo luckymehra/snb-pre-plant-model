@@ -1,4 +1,4 @@
-%let path=C:\Users\Lucky\Google Drive\Experiments\2013-2014\2013-14 data\Data Analysis NO collin;
+%let path=C:\Users\path-to-folder;
 
 /*Data SUBSET 1*/
 libname model "&path\MaxDS Reg Tree\residue as predictor";

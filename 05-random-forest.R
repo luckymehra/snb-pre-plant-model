@@ -1,4 +1,4 @@
-setwd("C:/Users/Lucky/Google Drive/Experiments/2013-2014/2013-14 data/Data Analysis NO collin/MaxDS random forests")
+setwd("C:/Users/path-to-folder")
 library(randomForest)
 library(foreign)
 

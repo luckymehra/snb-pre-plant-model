@@ -1,4 +1,4 @@
-%let path=C:\Users\Lucky\NCSU Google Drive\Experiments\2013-2014\2013-14 data\MaxDis logistic versus multiple reg\MaxDS MR and CART\MaxDS random forests;
+%let path=C:\Users\path-to-folder;
 
 %macro rf(ds_th=30, subset=1);
 libname rf excel path="&path\RF pred test_&subset..xlsx";

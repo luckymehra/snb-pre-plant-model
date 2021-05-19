@@ -1,6 +1,6 @@
 /*Data Import*/
 
-%let path=C:\Users\Lucky\NCSU Google Drive\Experiments\2013-2014\2013-14 data\MaxDis logistic versus multiple reg\MaxDS MR and CART;
+%let path=C:\Users\path-to-folder;
 
 libname model excel path="&path\SNB model data standardized lati and longi.xlsx";
 

@@ -1,4 +1,4 @@
-%let path=C:\Users\Lucky\Google Drive\Experiments\2013-2014\2013-14 data\Data Analysis NO collin;
+%let path=C:\Users\path-to-folder;
 
 %macro mreg(ds_th=, subset=);
 libname model excel path="&path\SNB maxdis model partition_&subset..xlsx";
